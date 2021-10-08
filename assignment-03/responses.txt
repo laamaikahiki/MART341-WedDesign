@@ -1,1 +1,4 @@
-
+The three websites that I enjoy visiting are Facebook.com, Twitter.com, and Amazon.com.
+A domain name is nothing but a textual version of an IP address which is a number that points to a specific website. It's easier for humans to remember a domain name compared to a specific sequential group of numbers.
+A cookie is something we eat LOL. A cookie are text files with small pieces of data, like a username and password, that are used to identify your computer as you use a computer network.
+The three essential parts of a URL are the protocol, the domain name, and the path.
