@@ -8,3 +8,4 @@
 
 [Responses](https://github.com/laamaikahiki/MART341-WedDesign/blob/main/assignment-03/responses.txt)
 
+[Screenshot](https://github.com/laamaikahiki/MART341-WedDesign/blob/main/assignment-03/images/MART341-WebDesign:assignment-03:images:screenshot.png)
