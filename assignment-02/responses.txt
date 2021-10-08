@@ -1,0 +1,5 @@
+The world wide web are pages you see when you're online while using a computer, laptop, tablet, or mobile device. The internet consist of a network of connected computers or devices that the web works on. It's also how emails and files travel.
+The internet works by using a packet routing network to allow computers to send an receive messages using IP addresses and a TCP.
+A directory is a file system used to organize folders. The relationship between a directory and a file is that a file is information stored on a computer.
+VCS allows you to track changes so that you can compare previous and current versions of your project. You also have the opportunity to revert back to the previous version. And you can share and collaborate with whomever you choose.
+My favorite kind of art is the art form of dance.
