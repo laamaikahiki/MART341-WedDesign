@@ -6,4 +6,4 @@
 
 [University of Montana Pacific Islanders Club](https://www.facebook.com/uofmpic/)
 
-[Responses](assignment-03/responses.txt)
+[Responses](https://github.com/laamaikahiki/MART341-WedDesign/blob/main/assignment-03/responses.txt)
